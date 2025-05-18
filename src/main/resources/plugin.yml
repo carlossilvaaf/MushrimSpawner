@@ -1,0 +1,8 @@
+name: MushrimSpawner
+version: 1.0
+main: me.mushrim.spawner.MushrimSpawner
+commands:
+  givesp:
+    description: Dá spawner de qualquer mob.
+    usage: /givesp <mob> <quantidade> <player>
+    permission: mushrim.givespawner
